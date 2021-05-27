@@ -63,7 +63,7 @@ Definitely a light day, but I got my hour+ in.
 **Link(s) to work:**
 https://www.codewars.com/users/AdamMcAdamson/completed_solutions
 
-### Day 5, May 24th, 2021
+### Day 6, May 25th, 2021
 
 **Today's Progress:**
 Light day of researching hosting solutions and server side stuff.
@@ -74,5 +74,14 @@ Heroku from GitHub seems to be the easiest answer right now.
 **Link(s) to work:**
 https://www.adammcadamson.com
 
+### Day 7, May 26th, 2021
 
+**Today's Progress:**
+Worked on my portfolio website today.
+Set up my dev environment, updated dependencies, fixed git submodules and set up and deployed the @heroku app.
 
+**Thoughts:**
+I need to work on portfolio projects.
+
+**Link(s) to work:**
+https://www.adammcadamson.com
