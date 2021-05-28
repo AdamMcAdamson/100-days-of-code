@@ -85,3 +85,14 @@ I need to work on portfolio projects.
 
 **Link(s) to work:**
 https://www.adammcadamson.com
+
+### Day 8, May 27th, 2021
+
+**Today's Progress:**
+Started a new portfolio project tentatively dubbed Pigeon Hunt
+
+**Thoughts:**
+A simple game, but it's definitely goingt to be an add to my portfolio.
+
+**Link(s) to work:**
+https://github.com/AdamMcAdamson/pigeon-hunt
